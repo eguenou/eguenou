@@ -27,9 +27,9 @@ I started coding in 2007 for electronic devices (VHDL, Ladder, C, Xilinx, etc.).
 Without a further ado, you can hire me for freelance dev technical project management on <a href="https://www.malt.fr/profile/emmanuelguenou" target="_blank">Malt</a>, offer me a full-time job or buy me a beer :beers:.</p>
 
 ## Some of my Github Stats
-<p align=left><img src=https://komarev.com/ghpvc/?username=eguenou alt=eguenou /></p>
+<p align=left><img src=https://komarev.com/ghpvc/?username=eguenou&color=00AFEC&style=plastic alt=eguenou /></p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=eguenou&show_icons=true&include_all_commits=true)](https://github.com/eguenou/github-readme-stats)
-[![Github stats](https://github-readme-stats.vercel.app/api?username=compuuteio&show_icons=true&include_all_commits=true)](https://github.com/eguenou/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?company=compuuteio&show_icons=true&include_all_commits=true)](https://github.com/eguenou/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eguenou&layout=compact)](https://github.com/eguenou/github-readme-stats)-->
