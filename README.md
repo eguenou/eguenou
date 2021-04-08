@@ -28,7 +28,6 @@ Without a further ado, you can hire me for freelance dev technical project manag
 
 ## Things I code with
 
-https://img.shields.io/badge/-PostgeSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="talend" src="https://img.shields.io/badge/-Talend-1675BC?style=flat-square&logo=talend&logoColor=white" />
@@ -38,6 +37,7 @@ https://img.shields.io/badge/-PostgeSQL-0064a5?style=flat-square&logo=postgresql
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=vscode&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 </p>
