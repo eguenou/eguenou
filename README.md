@@ -18,14 +18,16 @@ Here are some ideas to get you started:
 
 I'm Emmanuel, a guy in love with Python!
 I started coding in 2007 for electronic devices (VHDL, Ladder, C, Xilinx, etc.). I also worked intensively on data migration projects with Talend. Since, I discovered several 'IT' languages (HTML, CSS, JS, Java, SQL, etc.) until I met Python in 2019. BOOM! Big Love :heart:
+
 - 🔭 I’m currently working on Funky Together, a Data Science project about musicians, and a multilanguage numerology project
 - 🌱 I’m currently learning Flutter for mobile app development
 - ⚡ Fun fact: I use a lot Adobe Illustrator
-You can hire me in freelance on [![Malt](https://www.malt.fr/profile/emmanuelguenou)](https://www.malt.fr/profile/emmanuelguenou), offer me a full-time job or buy me a beer.</p>
+
+Without a further ado, you can hire me in freelance on [Malt](https://www.malt.fr/profile/emmanuelguenou), offer me a full-time job or buy me a beer.</p>
 ## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=eguenou alt=eguenou /> </p>
-<p> <img src=https://komarev.com/ghpvc/?username=compuuteio alt=compuuteio /> </p>
+<p align=left><img src=https://komarev.com/ghpvc/?username=eguenou alt=eguenou /></p>
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=eguenou&show_icons=true&include_all_commits=true)](https://github.com/eguenou/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=compuuteio&show_icons=true&include_all_commits=true)](https://github.com/eguenou/github-readme-stats)
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eguenou&layout=compact)](https://github.com/eguenou/github-readme-stats)-->
