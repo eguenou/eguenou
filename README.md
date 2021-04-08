@@ -26,6 +26,22 @@ I started coding in 2007 for electronic devices (VHDL, Ladder, C, Xilinx, etc.).
 
 Without a further ado, you can hire me for freelance dev technical project management on [Malt](https://www.malt.fr/profile/emmanuelguenou), offer me a full-time job or buy me a beer :beers:.
 
+## Things I code with
+
+https://img.shields.io/badge/-PostgeSQL-0064a5?style=flat-square&logo=postgresql&logoColor=white
+<p>
+  <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="talend" src="https://img.shields.io/badge/-Talend-1675BC?style=flat-square&logo=talend&logoColor=white" />
+  <img alt="postgresql" src="https://img.shields.io/badge/-PostgeSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="sql-server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft&logoColor=white" />
+  <img alt="oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+</p>
+
 ## Some of my Github Stats
 <p align=left><img src=https://komarev.com/ghpvc/?username=eguenou&color=00AFEC&style=plastic alt=eguenou /></p>
 
