@@ -24,7 +24,7 @@ I started coding in 2007 for electronic devices (VHDL, Ladder, C, Xilinx, etc.).
 - 🌱 I’m currently learning Flutter for mobile app development
 - ⚡ Fun fact: I use a lot Adobe Illustrator
 
-Without a further ado, you can hire me for freelance dev technical project management on [Malt](https://www.malt.fr/profile/emmanuelguenou){:target="_blank" rel="noopener"}, offer me a full-time job or buy me a beer :beers:.
+Without a further ado, you can hire me for freelance dev technical project management on [Malt](https://www.malt.fr/profile/emmanuelguenou), offer me a full-time job or buy me a beer :beers:.
 
 ## Some of my Github Stats
 <p align=left><img src=https://komarev.com/ghpvc/?username=eguenou&color=00AFEC&style=plastic alt=eguenou /></p>
