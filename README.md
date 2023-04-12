@@ -32,7 +32,7 @@ Without a further ado, you can hire me for freelance dev technical project manag
 
 <p>
   <img alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="airflow" src="https://img.shields.io/badge/-Airflow-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="airflow" src="https://img.shields.io/badge/-Airflow-2ECC40?style=flat-square&logo=apache-airflow&logoColor=black" />
   <img alt="talend" src="https://img.shields.io/badge/-Talend-1675BC?style=flat-square&logo=talend&logoColor=white" />
   <img alt="postgresql" src="https://img.shields.io/badge/-PostgeSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="vscode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
